@@ -15,10 +15,10 @@ for (let i = 0; i < botoes.length; i++) {
 }
 
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2023-10-05T30:23:59");
-const tempoObjetivo2 = new Date("2023-12-05T29:22:00");
-const tempoObjetivo3 = new Date("2023-12-30T19:11:00");
-const tempoObjetivo4 = new Date("2024-02-01T10:00:00");
+const tempoObjetivo1 = new Date("2024-10-05T30:23:59");
+const tempoObjetivo2 = new Date("2024-12-05T29:22:00");
+const tempoObjetivo3 = new Date("2024-12-30T19:11:00");
+const tempoObjetivo4 = new Date("2024-12-01T10:00:00");
 
 const tempos = [tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4];
 
